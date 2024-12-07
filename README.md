@@ -8,7 +8,7 @@ This is a simple webpage project for a camera website, built using **HTML** and 
 - Links for social media integration.
 
 ## Preview
-![Screenshot of Camera Website](camera-website/website_screenshot.png)
+![Screenshot of Camera-Website](https://github.com/Payal-Goswami/camera-website/blob/main/website_screenshot.png)
 
 
 ## Technologies Used
