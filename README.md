@@ -7,6 +7,10 @@ This is a simple webpage project for a camera website, built using **HTML** and 
 - Smooth navigation with an interactive menu.
 - Links for social media integration.
 
+## Preview
+![Screenshot of Camera Website](camera-website/website_screenshot.png)
+
+
 ## Technologies Used
 - **HTML5** for structure.
 - **CSS3** for styling.
@@ -15,5 +19,7 @@ This is a simple webpage project for a camera website, built using **HTML** and 
 
 ## Installation
 1. Clone the repository.
-2. Open camera_project_minor.html in any modern web browser.
+    https://github.com/Payal-Goswami/camera-website.git
+   
+3. Open camera_project_minor.html in any modern web browser.
 
