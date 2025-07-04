@@ -1,4 +1,4 @@
-# camera-website
+# camera-webpage
 
 This is a simple webpage project for a camera website, built using **HTML** and **CSS**. It features a responsive menu, social media icons, and a clean layout.
 
